@@ -1,0 +1,5 @@
+{
+  "name": "AI Pulse: Real-Time Stream Analytics",
+  "description": "A high-velocity real-time analytics dashboard using Count-Min Sketch and Top-K algorithms to track AI tool mentions across technology discussions.",
+  "requestFramePermissions": []
+}
